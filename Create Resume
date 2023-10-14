@@ -1,0 +1,41 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Resume</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <header>
+        <h1>Sivaram</h1>
+        <h2>Software Engineer</h2>
+        <ul>
+          <li>Email: sram16039@gmail.com</li>
+          <li>Phone: 9524590091</li>
+        </ul>
+      </header>
+      <main>
+        <section>
+          <h2>Skills</h2>
+          <ul>
+            <li>Beginer in Python, Java, and C++</li>
+            <li>Strong problem-solving and analytical skills</li>
+            <li>Excellent communication and teamwork skills</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Experience</h2>
+          <ul>
+            <li>Service Engineer, Kaeser(2021-Present)</li>
+            <li>Software Engineer Intern, Microsoft (2017)</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Education</h2>
+          <ul>
+            <li>Diplamo in Mechanical Engineering,DOT(2020)</li>
+          </ul>
+        </section>
+      </main>
+      <footer>
